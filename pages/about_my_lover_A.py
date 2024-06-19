@@ -17,7 +17,7 @@ st.markdown(
     - [김주연의 블로그](https://blog.naver.com/rlawnqkf21)
     ## 김주연의 유튜브
     - [김지붕붕](https://www.youtube.com/channel/UCNgfnSxxZiP5oFf_bGKDkKw)
-
+)
 with col_3:  
     st.write('기타 부문')
     st.write('정답: 창가자리')
