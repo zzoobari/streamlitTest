@@ -21,3 +21,6 @@ st.markdown(
 with col_3:  
     st.write('기타 부문')
     st.write('정답: 창가자리')
+
+st.write('악기 부문')
+st.write('정답은 기타입니다.')
