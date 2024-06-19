@@ -1,5 +1,5 @@
 import streamlit as st 
-st.title('ALL ABOUT ME!')
+st.title('ABOUT ME!')
 st.header('기본 소개')
 st.subheader('이름')
 st.write('김주연')
