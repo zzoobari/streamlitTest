@@ -14,7 +14,7 @@ st.markdown(
     '''
     
 
-    ## 블로그
+    ### 블로그
     - [김주연의 블로그](https://blog.naver.com/rlawnqkf21)
 
     ### 유튜브
