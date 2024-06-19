@@ -19,6 +19,7 @@ with col_3:
     st.write('기타 부문')
     st.selectbox('다음 중 김주연이 기차에 앉을 때 선호하는 자리는?', ['창가자리', '복도자리'])
 
+st.write("")
 st.write('악기 부문')
 select = st.selectbox('김주연이 가장 좋아하는 악기는?', ['피아노', '드럼', '기타'])
 st.write(select+'가 선택되었습니다.')
