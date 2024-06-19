@@ -9,32 +9,20 @@ with col_1:
 with col_2:
     st.write('취미 부문')
     st.write('정답: 틱톡 촬영은 김주연의 취미가 아닙니다.')
-     # 마크다운 헤더1
-    - 마크다운 목록1. **굵게** 표시
-    - 마크다운 목록2. *기울임* 표시
-        - 마크다운 목록2-1
-        - 마크다운 목록2-2
-
-    ## 마크다운 헤더2
-    - [네이버](https://naver.com)
-    - [구글](https://google.com)
-    - [김지붕붕](https://www.youtube.com/channel/UCNgfnSxxZiP5oFf_bGKDkKw)
-
-    ### 마크다운 헤더3
-    일반 텍스트
-    '''
-    )
     
 st.markdown(
     '''
+    
 
-
-    ## 김주연의 블로그
+    ## 블로그
     - [김주연의 블로그](https://blog.naver.com/rlawnqkf21)
-    ## 김주연의 유튜브
+
+    ### 유튜브
     - [김지붕붕](https://www.youtube.com/channel/UCNgfnSxxZiP5oFf_bGKDkKw)
+
     '''
-    )
+    )  
+
 with col_3:  
     st.write('기타 부문')
     st.write('정답: 창가자리')
