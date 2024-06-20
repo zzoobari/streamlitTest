@@ -11,5 +11,5 @@ st.write('특이한 것은 음력 생년월일은 1999년이고, 춘분 전에 �
 st.subheader('MBTI')
 st.write('ENFP')
 st.sidebar.write('이 페이지가 재미있나요?')
-st.sidebar.checkbox('네')
-st.sidebar.checkbox('아니오')
+st.sidebar.selectbox('네')
+st.sidebar.selectbox('아니오')
